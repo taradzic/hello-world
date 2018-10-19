@@ -1,0 +1,4 @@
+class CSerial{
+  CSerial();
+  ~CSerial();
+}
